@@ -9,6 +9,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ### Information Collection and Use  
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email. The information that we request will be retained by us and used as described in this privacy policy.  
+If you wish to delete all your data that we have stored, please send us an e-mail indicating the e-mail address you used to register with the app.
 The app does use third party services that may collect information used to identify you. 
 
 ### Cookies  
